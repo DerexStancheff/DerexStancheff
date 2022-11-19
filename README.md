@@ -1,8 +1,8 @@
 <h1 align="left">Hi! 👋, I'm Derex</h1>
 
 - 👨‍💻 I’m currently in my 2nd year studying Programmer Analyst at CEI.
-- ⚡️ 28 y/o, Student, quick learner, hard worker
-- 🌱 Music lover, guitar player and a Dog person
+- ⚡️ 28 y/o, Student, Quick learner, Hard worker
+- 🌱 Tech aficionado, Music lover, Guitar player and a Dog person
 - 📫 Reach me: **derexstan25@hotmail.com**
 
 <h3 align="left"></h3>
@@ -10,7 +10,8 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
