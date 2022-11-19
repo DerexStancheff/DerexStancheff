@@ -1,7 +1,8 @@
 <h1 align ="left">Hi! 👋, I'm Derex</h1>
-- 👨‍💻 I’m currently studying Programmer Analyst
 
-- 📫 Reach me **derexstan25@hotmail.com**
+- 👨‍💻 I’m currently studying Programmer Analyst at CEI
+
+- 📫 Reach me: **derexstan25@hotmail.com**
 
 <h3 align="left"></h3>
 <p align="left">
