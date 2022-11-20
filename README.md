@@ -1,4 +1,4 @@
-<h1 align="left">Hi! 👋, I'm Derex</h1>
+<h1 align="left">Hello There 👋, I'm Derex</h1>
 
 - 👨‍💻 I’m currently in my 2nd year studying Programmer Analyst at CEI.
 - ⚡️ 28 y/o, Student, Quick learner, Hard worker
